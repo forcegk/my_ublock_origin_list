@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: forcegk blocklist
+!
+
+! SHUTUP UDC
+||campusvirtual.udc.gal/pluginfile.php/1/theme_boost/backgroundimage/*/Rectorado_03.jpg_2063069239%20%282%29.jpg$image
+||campusvirtual.udc.gal/login/fondo3.jpg
+||campusvirtual.udc.gal/login/covid2.png$image
+||campusvirtual.udc.gal/login/fondo1.jpg$image
+||cas.udc.es/images/udc-013.png$image
+||cas.udc.es/images/udc-009.png$image
+
